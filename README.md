@@ -57,3 +57,9 @@ This project predicts the **market value (€)** of professional footballers usi
   - Skill stats (e.g., dribbling, passing, pace)
 
 ---
+
+## 📷 Actual vs Predicted Plot
+![Actual vs Predicted](images/actual_vs_predicted.png)
+
+## 🔥 Top Features Impacting Market Value
+![Feature Importance](images/feature_importance.png)
