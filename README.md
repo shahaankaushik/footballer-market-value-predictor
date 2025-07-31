@@ -59,7 +59,7 @@ This project predicts the **market value (€)** of professional footballers usi
 ---
 
 ## 📷 Actual vs Predicted Plot
-![Actual vs Predicted](actual_vs_predicted.png)
+![Actual vs Predicted](Images/actual_vs_predicted.png)
 
-## 🔥 Top Features Impacting Market Value
-![Feature Importance](feature_importance.png)
+### 🔹 Feature Importance
+![Feature Importance](Images/feature_importance.png)
